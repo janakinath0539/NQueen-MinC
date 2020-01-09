@@ -1,7 +1,3 @@
-/** PROGRAMMER:- JANAKINATH POKALA
-                  C652D539
-
- **/
 
 import java.io.BufferedReader;
 import java.io.IOException;
